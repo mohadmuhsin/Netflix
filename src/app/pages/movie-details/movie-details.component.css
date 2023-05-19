@@ -1,0 +1,22 @@
+img {
+    width: 100%;
+    height: auto;
+}
+
+h1{
+    color: white;
+    font-weight: bold;
+}
+p{  
+    /* font-size: 19px; */
+    color: white;
+}
+a{
+    background-color: #e50914;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    background-color: blue;
+    border: 2px solid white;
+}

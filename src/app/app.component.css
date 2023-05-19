@@ -1,0 +1,9 @@
+.navbar .navbar-brand{
+    color: #e50914;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} 
+.navbar-nav .nav-item .nav-link{
+    color: #e50914;
+}
